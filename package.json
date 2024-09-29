@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "backend-internship",
+  "version": "1.0.0",
+  "main": "connection.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
